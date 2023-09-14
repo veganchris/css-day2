@@ -1,11 +1,15 @@
+body {
+  position: absolute;
+  top: 100;
+  left: 100;
+}
+
 img {
   width: 50px;
 }
 
 #face {
   width: 300px;
-
-
 }
 
 #eyes2 {
@@ -19,6 +23,7 @@ img {
   top: 160;
   left: 150px;
 }
+
 
 #mouth2 {
   position: absolute;
