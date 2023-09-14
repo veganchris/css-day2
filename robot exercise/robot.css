@@ -1,7 +1,50 @@
 img {
   width: 50px;
 }
+
 #face {
-  width: 400px;
+  width: 300px;
+
+
 }
 
+#eyes2 {
+  position: absolute;
+  top: 150;
+  left: 150px;
+}
+
+#nose1 {
+  position: absolute;
+  top: 160;
+  left: 150px;
+}
+
+#mouth2 {
+  position: absolute;
+  top: 250px;
+  left: 100px;
+  width: 100px;
+}
+
+#hair1 {
+  position: absolute;
+  top: 0;
+  left: 30px;
+  width: 250px;
+}
+
+#hat {
+  position: absolute;
+  top: 0;
+  left: 50px;
+  width: 150px;
+}
+
+#earphones2 {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 300px;
+  z-index: -1;
+}
